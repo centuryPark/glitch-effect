@@ -3,7 +3,7 @@
 > 利用css中的clip属性，结合sass中的插值、函数、循环等实现影视中常见的信号故障特效（glitch effect）。
 
 >效果展示
->> ![glitch-effect](../demo/demo1.jpg)
+>> ![glitch-effect](../demo/demo1.gif)
 
 > 核心代码
 ```scss
